@@ -5,8 +5,7 @@
 2. You'll also need to download the file named .htaccess in the same directory.
 
 ## Usage ##
-Now using this is SUPER simple.
-Simply replace the values in the $rss_array = array( section while keeping in mind the convention of encapsulating the array.
+Simply replace the values in the $rss_array = array() section while keeping in mind the convention of encapsulating the array.
 1. M3U Link: http://{DOMAIN}/{DIRECTORY}/RSS
 2. EPG Link: http://{DOMAIN}/{DIRECTORY}/RSS/EPG
 
