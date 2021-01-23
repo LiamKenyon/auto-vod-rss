@@ -4,13 +4,13 @@ $paths = explode("/", $url);
 $paths = str_replace("-"," ",$paths);
 // print_r($paths);
 $rss_array = array(
-    'https://democracynow.org/podcast-video.xml',
-    'https://podsync.net/1QPr',
-    'https://siftrss.com/f/d08JgNM5V3',
-    'https://siftrss.com/f/LbQX1zVA6z0',
-    'https://podsync.net/WQ2O',
-    'https://podsync.net/hH351ceab',
-    'https://podsync.net/IbukRyeEb'
+    'https://rss.link/rss1.xml',
+    'https://rss.link/rss2.xml',
+    'https://rss.link/rss3.xml',
+    'https://rss.link/rss4.xml',
+    'https://rss.link/rss5.xml',
+    'https://rss.link/rss6.xml',
+    'https://rss.link/rss7.xml'
 );
 global $limit,$startTime,$endTime,$channel,$thumbnail,$title,$description,$pubDate,$date,$url;
 $limit = 2;
